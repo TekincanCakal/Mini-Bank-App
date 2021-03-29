@@ -1,0 +1,15 @@
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\MiniBank.DataAcces.dll.config
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\MiniBank.DataAcces.dll
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\MiniBank.DataAcces.pdb
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\MiniBank.Entities.dll
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\MiniBank.Entities.pdb
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\MiniBank.Entities.dll.config
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\obj\Debug\MiniBank.DataAccess.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\obj\Debug\MiniBank.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\obj\Debug\MiniBank.DataAccess.csproj.CopyComplete
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\obj\Debug\MiniBank.DataAcces.dll
+C:\Users\ABRA\source\repos\MiniBankDemo\MiniBank.DataAcces\obj\Debug\MiniBank.DataAcces.pdb
